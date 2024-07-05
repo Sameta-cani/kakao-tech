@@ -237,5 +237,6 @@ $RECYCLE.BIN/
 *.csv
 *.docx
 코딩테스트_응시자가이드/
+*.pdf
 
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,macos
