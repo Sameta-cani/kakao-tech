@@ -236,6 +236,7 @@ $RECYCLE.BIN/
 *.html
 *.csv
 *.docx
+*.zip
 코딩테스트_응시자가이드/
 *.pdf
 test.ipynb
