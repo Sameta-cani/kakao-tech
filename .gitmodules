@@ -2,3 +2,6 @@
 	path = bami
 	url = https://github.com/ktb1-eight/bami-AI
 	branch = main
+[submodule "ktb-repo"]
+	path = ktb-repo
+	url = https://github.com/Sameta-cani/kakao-tech.git
