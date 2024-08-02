@@ -1,3 +1,4 @@
 [submodule "bami"]
 	path = bami
 	url = https://github.com/ktb1-eight/bami-AI
+	branch = main
