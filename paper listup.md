@@ -1,0 +1,7 @@
+|no.|Title|Keyword|publisher(conference, journal, arxiv)|organization|corresponding author|num of citation|year|url|
+|:--:|--|:--|:--:|:--:|:--:|:--:|:--:|:--:|
+|1|A Scheme for Recommending Locations to Tourists using Collaborative Filtering based on Data Mining|Data Conversion, Matrix, collaborative filtering|KERIS|Graduate School of Soongsil University|LEE, TAE-RIN|0|2017|https://oasis.dcollection.net/public_resource/pdf/200000001484_20240803031855.pdf|
+|2|Real-Time Context-Aware Recommendation System for Tourism|real-time context-aware, recommendation system, tourism, AI|MDPI|Gachon University|JunHo Yoon|9|2023|https://www.mdpi.com/1424-8220/23/7/3679|
+|3|Deep Learning Recommendation Model for Personalization and Recommendation Systems|Deep Learning, Personalization, Neural Collaborative Filtering|IEEE|Northwestern University, Harvard University|Maxim Naumov, Dheevatsa Mudigere|691|2019|https://arxiv.org/pdf/1906.00091v1|
+|4|GLocal-K: Global and Local Kernels for Recommender Systems|Recommender Systems, Matrix Completion, Kernel Methods|ACM (Association for Computing Machinery)|The University of Sydney Australia|Soyeon Caren Han, Taejun Lim|38|2021|https://arxiv.org/pdf/2108.12184v1|
+|5|Neural Collaborative Filtering|Collaborative Filtering, Neural Networks, Deep Learning, Matrix Factorization, Implicit Feedback|ACM (Association for Computing Machinery)|National University of Singapore, Singapore|Xiangnan He, Lizi Liao|6765|2017|https://arxiv.org/pdf/1708.05031v2|
